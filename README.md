@@ -93,19 +93,6 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 ![image](https://github.com/user-attachments/assets/87073d8d-945e-457c-b9cf-b8f9a0ea2126)
 
 
-### Gateways:
-
-![Screenshot 2024-10-14 090324](https://github.com/user-attachments/assets/63f38c19-6f22-4daf-bb60-0e7fe367f393)
-
-### Channel:
-
-![Screenshot 2024-10-14 090338](https://github.com/user-attachments/assets/429528cf-7306-4f8b-aac6-72e6be942413)
-
-### End device:
-
-![Screenshot 2024-10-14 090517](https://github.com/user-attachments/assets/a090b732-c279-4105-bfeb-1f3ae6127be8)
-
-
 ## Results: 
 The Indoor Gateway for LoRaWAN is successfully created.
 
